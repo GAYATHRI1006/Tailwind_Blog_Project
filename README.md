@@ -43,7 +43,7 @@ Displays recent updates with:
 
 
 
-## 📎 Footer
+## Footer
 
 - Company branding
 - Multiple link sections (Products, About)
